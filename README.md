@@ -1,4 +1,4 @@
-This is a code implementation of the general-purpose irradiation model published in Wild et al. (2026) (doi: tbd).
+This is a code implementation of the general-purpose irradiation model published in Wild et al. (2026) ([doi](https://doi.org/10.1016/j.solener.2026.115030)).
 The code has been tested under Windows 11 and Matlab 2025a. It has no external dependencies in this form.
 Use the example script provided as a guide for how to apply the model.
 
